@@ -1,4 +1,4 @@
-#👋 Hello, I'm Álvaro Furió Agustí
+# 👋 Hello, I'm Álvaro Furió Agustí
 Computer Science and Mathematics student at the Polytechnic University of Valencia (UPV), currently in my third year of studies.
 <!--
 **alvarofurio/alvarofurio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,28 +16,34 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Technical Skills
-#Programming Languages
+### Programming Languages
 
-Python (Advanced)
-Java (Advanced)
-C++ & C# (Intermediate)
-SQL (Intermediate)
+- Python (Advanced)
+- Java (Advanced)
+- C++ & C# (Intermediate)
+- SQL (Intermediate)
 
-#Tools & Technologies
-Git, Visual Studio, VS Code, Apache NetBeans, MySQL
+### Tools & Technologies
+- Git
+- Visual Studio
+- VS Code
+- Apache NetBeans
+- MySQL
+
 ## 🚀 Projects
 
-Developed a neural network for digit recognition (MNIST) with fundamental theory research
-Implemented a RAG system for a wiki assistant
-Currently focusing on backend development projects and AI implementations
+- Developed a neural network for digit recognition (MNIST) with fundamental theory research
+- Implemented a RAG system for a wiki assistant
+- Currently focusing on backend development projects and AI implementations
 
 ## 🌐 Professional Experience
-Internship at L'Eliana City Council (Summer 2023-2024)
-
+### Internship at L'Eliana City Council (Summer 2023-2024)
 Provided hardware maintenance and technical support
 Resolved IT incidents in the municipal environment
 
 ## 📫 Contact Information
-Email: alvarofurio04@gmail.com
+Email: alvarofurio04@gmail.com 
+
 Phone: +34 615653649
+
 Location: L'Eliana, Valencia, Spain
