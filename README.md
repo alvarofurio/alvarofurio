@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Professional Experience
 ### Internship at L'Eliana City Council (Summer 2023-2024)
-Provided hardware maintenance and technical support
+Provided maintenance and technical support
 Resolved IT incidents in the municipal environment
 
 ## 📫 Contact Information
